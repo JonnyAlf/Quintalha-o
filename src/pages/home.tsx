@@ -108,7 +108,7 @@ export default function Home() {
             <section id="random-solution" className="container py-lg" style={{ backgroundColor: "var(--bg-color)", color: "var(--primary-color)" }}>
                 <div className="text-center">
                     <h2>💡 A Solução Que Você Nem Sabia Que Precisava</h2>
-                    <p className="mt-sm">Às vezes, a gente nem sabe o que tá faltando na vida, né? Deixa que o DonaFrost resolve pra você!</p>
+                    <p className="mt-sm">Às vezes, a gente nem sabe o que tá faltando na vida, né? Deixa que o Quintalhação resolve pra você!</p>
                 </div>
 
                 <div className="even-columns items-center mt-lg">
